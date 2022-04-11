@@ -1,3 +1,4 @@
+var Tablesort = require("../tablesort.js");
 (function(){
 
   Tablesort.extend('monthname', function(item) {
